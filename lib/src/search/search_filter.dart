@@ -78,6 +78,9 @@ class TypeFilters {
 
   /// Shows.
   static const SearchFilter show = SearchFilter('EgIQBQ%253D%253D');
+
+  // VideoExact
+  static const SearchFilter videoExact = SearchFilter('EgIQAUICCAE%253D');
 }
 
 class DurationFilters {
